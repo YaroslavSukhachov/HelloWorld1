@@ -5,6 +5,7 @@ public class Student {
     int age = 1;
     String studentId = "default";
     double avgMark = 60.0;
+    int field;
 
     {
         age = 18;
